@@ -3,3 +3,5 @@
 Tutorial de uso das ferramentas GIT e GitHub 
 ## Autor  
 Victor Simões Dias
+## Playlist
+[iniciar tutorial](https://joseassis.com.br/cursos/gitegithub.html)
